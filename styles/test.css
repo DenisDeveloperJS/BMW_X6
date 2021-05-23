@@ -5,6 +5,7 @@
 
 .form__input_danger {
     background: linear-gradient(93.53deg, #AC1414 11.43%, #ED1414 80.79%);
+    color: white;
 }
 
 
