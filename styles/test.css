@@ -1,0 +1,10 @@
+.form__button_active {
+    background: linear-gradient(93.53deg, #3FAC39 11.43%, #47AC53 80.79%);
+}
+
+
+.form__input_danger {
+    background: linear-gradient(93.53deg, #AC1414 11.43%, #ED1414 80.79%);
+}
+
+
